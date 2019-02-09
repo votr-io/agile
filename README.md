@@ -14,3 +14,20 @@ Our goal is build a simple, focused platform for creating and running ranked-cho
 - Respect security and privacy. Never capture or store any user information that is not directly necessary & relevant to the process of administering polls and elections. Never contact users when is not directly necessary & relevant to the process of administering polls and elections, or maintenance of their own data. 
 - Uphold democratic principles. Ballots are anonymous. Election results and even raw ballot data should be available to all participants. Take all feasible steps to protect the integrity of the voting process. Do not compromise on this principle even when it may force us to have harder conversations.
 - Total transparency, except where it would directly violate the above principles. All code is open source; all of our management process, prioritization, and decisions are open source. Within our product, always provide a clear and transparent explanations for how and why.
+
+## Resources
+
+- https://www.fairvote.org/rcv
+- http://www.cgpgrey.com/politics-in-the-animal-kingdom/
+- Maine
+  - https://www.fairvote.org/maine_ballot_initiative
+  - http://www.rcvmaine.com/about
+  - http://www.lwvme.org/RCV.html
+
+
+## Interesting examples
+- CGP Grey video, recreate
+- Interesting real-world examples?
+  - Particularly interesting elections from countries that use RCV - Australia, Ireland, Scotland, etc?
+  - Interesting elections in the US - Maine? Portland?
+  - Is there any research on probably 2nd choices for 3rd party candidates in major US elections? 2000? 2016?
